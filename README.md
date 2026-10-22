@@ -89,15 +89,15 @@ AI 辅助硬件设计多智能体平台：一句话需求 → 多 Agent 流水�
 
 ### 系统截图
 
-![1_登录页_实机](assets/screenshots/zhifatong/1_登录页_实机.png)
-![2_仪表盘总览](assets/screenshots/zhifatong/2_仪表盘总览.png)
-![3_仪表盘_AI助手流式回答](assets/screenshots/zhifatong/3_仪表盘_AI助手流式回答.png)
-![4_合同审查过程](assets/screenshots/zhifatong/4_合同审查过程.png)
-![5_合同审查完成提示](assets/screenshots/zhifatong/5_合同审查完成提示.png)
-![6_合同审查报告](assets/screenshots/zhifatong/6_合同审查报告.png)
-![7_知识库文档详情](assets/screenshots/zhifatong/7_知识库文档详情.png)
-![8_数据分析看板](assets/screenshots/zhifatong/8_数据分析看板.png)
-![9_用户管理](assets/screenshots/zhifatong/9_用户管理.png)
+![1_登录页_实机](assets/screenshots/zhifatong/01_登录页_实机.png)
+![2_仪表盘总览](assets/screenshots/zhifatong/02_仪表盘总览.png)
+![3_仪表盘_AI助手流式回答](assets/screenshots/zhifatong/03_仪表盘_AI助手流式回答.png)
+![4_合同审查过程](assets/screenshots/zhifatong/04_合同审查过程.png)
+![5_合同审查完成提示](assets/screenshots/zhifatong/05_合同审查完成提示.png)
+![6_合同审查报告](assets/screenshots/zhifatong/06_合同审查报告.png)
+![7_知识库文档详情](assets/screenshots/zhifatong/07_知识库文档详情.png)
+![8_数据分析看板](assets/screenshots/zhifatong/08_数据分析看板.png)
+![9_用户管理](assets/screenshots/zhifatong/09_用户管理.png)
 ![10_系统设置](assets/screenshots/zhifatong/10_系统设置.png)
 ![11_系统参数配置](assets/screenshots/zhifatong/11_系统参数配置.png)
 
