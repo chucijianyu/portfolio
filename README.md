@@ -1,6 +1,6 @@
 # 作品集展示 Portfolio
 
-个人项目作品展示仓库：**源码均存放在私有仓库**（防止被克隆抄用），此处公开展示项目介绍与效果图/设计图。
+个人项目与实习期间参与项目的展示仓库：**源码均存放在私有仓库**（含公司内部代码，不公开），此处只展示项目介绍与脱敏后的效果图/设计产出。
 
 ---
 
@@ -70,14 +70,47 @@
 ## 二、硅流 · AI 辅助硬件设计多智能体平台
 
 > 源码仓库（私有）：`silicon-flow`
+> 实习期间参与的公司内部项目，应保密要求不公开源码；以下截图为脱敏后的产品界面，账号信息已隐去。
 
-AI 辅助硬件设计多智能体平台：一句话需求 → 多 Agent 流水线自动完成芯片/传感器选型、异形板板框设计、可编辑 KiCad 10 原理图、PCB 布局参考、BOM 与 Gerber 打样包。形态库驱动异形板设计（X 形四旋翼 / 跑道形手环 / 圆表盘 / 耳塞等多形态，多版迭代）；后期将 Trae 接入 KiCad 华秋 MCP 工具链，全程 AI 完成打板验证。图为 STM32-MinSys 最小系统板（KiCad）设计产出。
+一句话需求 → 6 个 Agent 串行协作（规格解析 → 器件选型 → 原理图生成 → PCB 布局 → 多模态校准 → 产物生成），产出可直接使用的 EDA 工程包：KiCad 工程、BOM、钻孔与 Gerber 打样包、方案文档与主控源码。
 
-### 产品图
+技术栈：FastAPI + Vue 3 + SQLite（字段兼容 MySQL 便于迁移）+ Milvus / 本地 JSON 双通道向量库 + bge-large-zh 向量召回 + BM25 + bge-reranker-v2-m3 精排 + Ollama（qwen2.5 / minicpm-v4.6）+ Docker。
 
-![STM32-MinSys PCB 版图](assets/screenshots/silicon-flow/01-stm32-pcb-layout.png)
-![PCB 3D 渲染](assets/screenshots/silicon-flow/02-stm32-pcb-3d.png)
-![四旋翼赛道地图](assets/screenshots/silicon-flow/03-drone-track.png)
+### 平台界面
+
+![01 多智能体流水线](assets/screenshots/silicon-flow/01-task-pipeline.png)
+
+**01 多智能体流水线**：输入一句自然语言需求（四旋翼无人机飞控板：STM32F405 + MPU6050 + BMP280，4 路 PWM 电调，2S–6S 供电），6 个 Agent 依次执行并实时回显日志，单任务全程 47s。
+
+![02 设计产物](assets/screenshots/silicon-flow/02-task-outputs.png)
+
+**02 设计产物落盘**：单次任务输出 17 个文件——KiCad 工程（`board.kicad_pcb`）、Gerber 打包（`siliconflow_pcb_gerber.zip`）、钻孔文件、BOM（csv + md）、主控源码与方案文档，前端可直接下载。
+
+![03 BOM 物料表](assets/screenshots/silicon-flow/03-bom.png)
+
+**03 BOM 物料表**：器件型号全部来自库内真实元件（STM32F405 / MPU6050 / BMP280），带封装与位号，可直接核对采购清单——这也是用 RAG 检索替代模型「记忆」型号的原因。
+
+![04 PCB 布局参考](assets/screenshots/silicon-flow/04-pcb-layout.png)
+
+**04 PCB 布局参考**：按板框功能区自动分区布线（图为蓝牙耳机形态：34 元件、19 条信号走线、电源网络铺铜连接）。
+
+![05 形态库](assets/screenshots/silicon-flow/05-form-library.png)
+
+**05 形态库 · 异形板**：把真实产品外形建模成板框几何约束——四旋翼 X 形四臂 160×160（11 个功能区）、智能温控风扇等。通用布局只会产出矩形板，形态库解决的是「生成的板能不能装进产品」。
+
+![06 知识库](assets/screenshots/silicon-flow/06-knowledge-base.png)
+
+**06 纠错型知识库**：历史失败案例（复位遗漏、位宽不匹配、阻塞赋值混用等）入库，召回后经 bge-reranker 精排再回灌给 Agent——这套 RAG 用于纠错，不是问答。
+
+### 设计产出（可编辑 KiCad 工程）
+
+![07 KiCad 编辑器](assets/screenshots/silicon-flow/07-kicad-editor.png)
+
+**07 KiCad PCB 编辑器**：产物是原生可编辑的 KiCad 工程，而不是一张渲染图，可继续人工修改与打样。
+
+![08 PCB 3D 渲染](assets/screenshots/silicon-flow/08-kicad-3d.png)
+
+**08 PCB 3D 渲染**：STM32 最小系统板（STM32F103C8T6）3D 视图。
 
 ---
 
