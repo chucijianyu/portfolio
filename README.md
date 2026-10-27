@@ -56,7 +56,6 @@
 
 **11_财务分析**：财务与估值：ROE/PE/PB/EPS 解读 + 三表解读 + 估值分析 + 风险提示
 
-
 ---
 
 ## 二、硅流 · AI 辅助硬件设计多智能体平台
@@ -106,54 +105,106 @@
 
 ---
 
+## 三、闭环验证 · 四旋翼 X 形飞控板：从 AI 生成图到可下单 Gerber
+
+> 这一节回答一个问题：**硅流生成的那个 `board.kicad_pcb`，到底能不能拿去打样。**
+> 结论是「不能」，但它是一块能修到「能」的料——下面每一步都有可复跑的判分依据，不是渲染图好看就算过。
+
+### 结论先行
+
+| 项 | 硅流生成（v1） | 重建定稿（v3） |
+|---|---|---|
+| 能否打开 | 打不开：文件头是 KiCad 5、正文是 v7 语法，混写 | 能，KiCad 10.0.6 正常加载 |
+| DRC | **428 条违规 / 13 处未连接** | **0 条违规 / 0 处未连接** |
+| 板框 | 21 个独立圆，拼不成一条闭合轮廓 | X 形四臂 136.2 × 136.2 mm，闭合 |
+| 封装 | 39 个 `module Custom` 手搓假焊盘 | KiCad 官方库真封装，43 元件 |
+| 网络 | 64 个网，51 个孤儿网 | 24 个网，0 孤儿网 |
+| 打样包 | 8 KB zip，Gerber 缺层 | 10 个文件，双层完整，463 KB |
+
+一句话：**文件能打开，图能看，结论不能用。** 换真封装、按真实机架重算板框、重新布线之后，才算走完闭环。
+
+### 六步是怎么跑通的
+
+![闭环六步](assets/screenshots/silicon-flow/closed-loop/04-pipeline.png)
+
+**第 1 步 · 生成**：一句话需求进硅流，6 个 Agent 串行跑完 47 秒，落盘 17 个文件，其中就有 `board.kicad_pcb`。
+
+**第 2 步 · 打不开**：KiCad 直接报错退出。逐处排查发现是语法混写——板级孤立 `fp_text`、35 处 `(model (xyz))` 缺参数、`(justify center)` 位置非法、`visible_elements` 多参数、`design_rules` 段落误入，共 5 类。修完这 5 类才加载成功。
+
+**第 3 步 · 真 DRC 判分**：不看图，只看报告。
+
+```bash
+kicad-cli pcb drc --format json -o drc.json board_fixed.kicad_pcb
+# 428 violations / 13 unconnected items
+```
+
+**第 4 步 · 诊断三处病灶**（这一步决定「调参」还是「重建」）：
+
+- 板框是 21 个各自独立的圆，不是一条闭合轮廓——PCB 厂第一眼就退；
+- 39 个封装是 `module Custom` 手搓的，焊盘尺寸和真实器件对不上；
+- 64 个网络里 51 个是孤儿网（只有一端），说明连线是「画上去的线」而不是「连起来的网」。
+
+结论：这三个问题都不是参数能救的，必须按真实器件与真实机架重建。
+
+**第 5 步 · 按真实产品重建**：以硅流输出的 13 个真实网络为电气骨架（**没有抄任何开源工程**），补上它漏掉的电源与外围——3V3 网络有、但没有 3.3V 来源，补 AMS1117-3.3；BOOT0 悬空，补下拉；蜂鸣器直连 IO，补 S8050 与基极电阻；PA0–PA3 接 TIM2_CH1–CH4 驱动四路电调。板框按四轴真实机架重算：中心 60×60 放全部飞控电路（与飞控塔装尺寸一致），四条 18 mm 宽对角臂只承担电机座与电调焊盘——每个臂端 4×M2 孔 + 1×3 电调焊盘（SIG/5V/GND）。
+
+**第 6 步 · 布线到可下单**：
+
+```bash
+# 1. 导出 Specctra DSN，交给 FreeRouting 自动布线
+# 2. FreeRouting 2.4.1 跑完导出 SES（score 999.99，127 条未布网络 → 0）
+# 3. 回灌 SES，双面 GND 铺铜 + 热焊盘
+kicad-cli pcb drc --format json -o x_drc7.json xframe_routed.kicad_pcb
+# 0 violations / 0 unconnected items
+```
+
+### 判分证据
+
+![DRC 前后对比](assets/screenshots/silicon-flow/closed-loop/05-drc-report.png)
+
+两个数字必须一起说：**修复前 428 条违规、13 处未连接；修复后 0 条、0 处。**
+
+两点口径说明，都是自己先交代的：
+
+1. **428 是 2026-10-27 16:04 那份报告的原始数字。** 短路是成堆重叠的铜，「谁和谁撞」的配对列举在不同次 DRC 中会小幅浮动（复测 419 条），未连接数恒定 13。所以对外更稳的说法是「四百多条」，要报精确数就附报告文件。
+2. **0 违规不是靠放宽规则换来的。** 最小线宽 0.15 mm 按板厂常规工艺写进 `xframe_routed.kicad_dru`（0.15/0.15 mm 线距属嘉立创、华秋的常规制程）；若用 KiCad 默认 0.2 mm 最小线宽去跑，会报 25 条 `track_width`——这是工艺设定差异，不是走线有问题。
+
+### 板子长这样
+
+![X 形四臂 3D 等轴测](assets/screenshots/silicon-flow/closed-loop/01-x4-3d-iso.png)
+
+**3D 等轴测**：136.2 × 136.2 mm 双层板，43 个元件集中在中心 60×60 区，四条臂只走电机座与电调焊盘。板号 `X4-FRAME`、日期码 `2026-10-27` 在丝印上。
+
+![X 形四臂 3D 顶视](assets/screenshots/silicon-flow/closed-loop/02-x4-3d-top.png)
+
+**3D 顶视**：四臂末端 4×M2 电机安装孔，臂端 r11.5 圆形收边，与真实四轴机架安装孔距一致。
+
+![顶层走线](assets/screenshots/silicon-flow/closed-loop/03-x4-routing-top.png)
+
+**顶层走线视图**：461 段走线、39 个过孔、总长 1849 mm，双面 GND 铺铜。走线从中心 MCU 扇出到四臂，电源与地走宽铜、信号走 0.15 mm。
+
+### 打样包里有什么
+
+![Gerber 包清单](assets/screenshots/silicon-flow/closed-loop/06-gerber-package.png)
+
+10 个文件：F/B 铜箔、F/B 阻焊、F/B 丝印、板框、Excellon 钻孔、SMT 贴片坐标、Gerber 作业单。**板框闭合、层数完整，可以直接投料**——但下单这一步仍是人工上传（华秋/嘉立创没有公开 API，AI 能到的是「交付一个板厂能读的包」，不是「替人点下单」）。
+
+### 三个遗留问题（自己先说，不等别人问）
+
+1. **没有原理图工程，ERC 跑不了。** 这一版是从 PCB 侧反推重建的，几何 DRC 全绿不等于电气正确。补 `.kicad_sch` 并跑 ERC 是下一步。
+2. **MPU6050 的 QFN-24 引脚按数据手册记忆接线**，几何 DRC 查不出「接错脚」这类电气错误，打样前必须逐脚复核。
+3. **没有实物，没上过电。** DRC 0/0 只证明「几何与工艺可行」，不证明「这块板焊起来能用」。闭环的最后一环是打样 + 上电实测，还在排队。
+
 ---
 
-## 三、智法通 · 企业级智能法律顾问平台
+## 数据来源
 
-> 源码仓库（私有）：`zhifatong`
+本节所有数字均可用同一套工具复跑，不带任何夸大：
 
-面向企业的智能法律顾问平台：基于大模型 + RAG 检索增强，提供法律问答、合同智能审查（风险条款识别与分级）、知识库管理、数据分析看板等能力，全流程 FastAPI + Vue3 + MySQL + 向量检索部署。
-
-### 系统截图
-
-![01_AI助手_法律问答](assets/screenshots/zhifatong/01_AI%E5%8A%A9%E6%89%8B_%E6%B3%95%E5%BE%8B%E9%97%AE%E7%AD%94.png)
-
-**01_AI助手_法律问答**：AI 助手：法律问答流式回答 + 法条引用 + 免责声明，结论可溯源到具体法条
-
-![02_仪表盘总览](assets/screenshots/zhifatong/02_%E4%BB%AA%E8%A1%A8%E7%9B%98%E6%80%BB%E8%A7%88.png)
-
-**02_仪表盘总览**：仪表盘：今日咨询 / 合同审查 / 知识库文档三项指标 + 30 天咨询趋势 + 右侧 AI 助手侧栏
-
-![03_仪表盘_AI助手流式回答](assets/screenshots/zhifatong/03_%E4%BB%AA%E8%A1%A8%E7%9B%98_AI%E5%8A%A9%E6%89%8B%E6%B5%81%E5%BC%8F%E5%9B%9E%E7%AD%94.png)
-
-**03_仪表盘_AI助手流式回答**：AI 助手流式回答：多轮追问，法条与案例混排引用
-
-![04_合同审查过程](assets/screenshots/zhifatong/04_%E5%90%88%E5%90%8C%E5%AE%A1%E6%9F%A5%E8%BF%87%E7%A8%8B.png)
-
-**04_合同审查过程**：合同审查中：解析 → 完整性 → 风险 → 合规 → 报告 五步流水线实时进度
-
-![05_合同审查完成提示](assets/screenshots/zhifatong/05_%E5%90%88%E5%90%8C%E5%AE%A1%E6%9F%A5%E5%AE%8C%E6%88%90%E6%8F%90%E7%A4%BA.png)
-
-**05_合同审查完成提示**：审查完成：五步全部命中并给出完成提示
-
-![06_合同审查报告](assets/screenshots/zhifatong/06_%E5%90%88%E5%90%8C%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8A.png)
-
-**06_合同审查报告**：审查报告：综合评分 62 / 风险等级 medium / 3 条风险条款（critical·high·medium 分级 + 逐条修改建议），单份耗时 8.6s；底部为多 Agent 对抗式审查
-
-![07_知识库文档详情](assets/screenshots/zhifatong/07_%E7%9F%A5%E8%AF%86%E5%BA%93%E6%96%87%E6%A1%A3%E8%AF%A6%E6%83%85.png)
-
-**07_知识库文档详情**：知识库文档详情：文档类型、分块数、入库状态与标签（劳动法 / 合同 / 经济补偿）
-
-![08_数据分析看板](assets/screenshots/zhifatong/08_%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9C%8B%E6%9D%BF.png)
-
-**08_数据分析看板**：数据分析看板：审查量统计与法规覆盖
-
-![09_用户管理](assets/screenshots/zhifatong/09_%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
-
-**09_用户管理**：用户管理：超级管理员 / 法务专员 / 普通用户 三角色 RBAC（账号信息已打码）
-
-![10_系统参数配置](assets/screenshots/zhifatong/10_%E7%B3%BB%E7%BB%9F%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE.png)
-
-**10_系统参数配置**：系统参数：AI 温度、最大 Token、检索文档数、分块大小可调
-
----
+| 工具 | 用途 |
+|---|---|
+| `kicad-cli 10.0.6 pcb drc --format json` | 唯一判分依据（violations / unconnected_items） |
+| `kicad-cli pcb export gerbers/drill/pos` | 打样包导出 |
+| `kicad-cli pcb render` | 3D 渲染（`--quality high --floor --perspective --zoom 0.76`） |
+| `pcbnew` Python API（KiCad 10 绑定） | 板框几何计算、封装放置、SES 回灌、铺铜 ZONE_FILLER |
+| FreeRouting 2.4.1（JDK 25） | Specctra DSN → SES 自动布线 |
