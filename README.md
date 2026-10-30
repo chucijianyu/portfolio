@@ -1,1 +1,259 @@
-{"name":"README.md","path":"README.md","sha":"0d4e56d75fee9898e3e33b723d064413d2bb4582","size":16089,"url":"https://api.github.com/repos/chucijianyu/portfolio/contents/README.md?ref=main","html_url":"https://github.com/chucijianyu/portfolio/blob/main/README.md","git_url":"https://api.github.com/repos/chucijianyu/portfolio/git/blobs/0d4e56d75fee9898e3e33b723d064413d2bb4582","download_url":"https://raw.githubusercontent.com/chucijianyu/portfolio/main/README.md","type":"file","content":"IyDkvZzlk4Hpm4blsZXnpLogUG9ydGZvbGlvCgrkuKrkurrpobnnm67kuI7l\nrp7kuaDmnJ/pl7Tlj4LkuI7pobnnm67nmoTlsZXnpLrku5PlupPvvJoqKua6\nkOeggeWdh+WtmOaUvuWcqOengeacieS7k+W6kyoq77yI5ZCr5YWs5Y+45YaF\n6YOo5Luj56CB77yM5LiN5YWs5byA77yJ77yM5q2k5aSE5Y+q5bGV56S66aG5\n55uu5LuL57uN5LiO6ISx5pWP5ZCO55qE5pWI5p6c5Zu+L+iuvuiuoeS6p+WH\nuuOAggoKLS0tCgojIyDkuIDjgIHmmbrono3mnpAgwrcg6YeR6J6N5pm66IO9\n56CU5oql5YiG5p6Q5LiO5oqV6LWE5Yaz562W6L6F5Yqp57O757ufCgo+IOa6\nkOeggeS7k+W6k++8iOengeacie+8ie+8mmB6aGlyb25neGlgCgrpnaLlkJHp\nh5Hono3noJTmiqXlnLrmma/nmoQgQUkg5YWo5qCI5bqU55So57O757uf77ya\n56CU5oql5LiK5Lyg6Kej5p6Q44CB5pm66IO96Zeu562U44CB5LiA6ZSu56CU\n5oql55Sf5oiQ5LiO5ZCI6KeE5a6h5qC477yM6KaG55uW5pWw5o2u6YeH6ZuG\n5Yiw5oql5ZGK5Lqn5Ye65a6M5pW06Zet546v44CC5oqA5pyv5qCI77yaRmFz\ndEFQSSArIFJlYWN0IDE4ICsgTXlTUUwgKyBSZWRpcyArIE5lbzRqICsgQ2hy\nb21hREIgKyBMYW5nR3JhcGggKyBPbGxhbWEgKyBEb2NrZXIgQ29tcG9zZeOA\nggoKIyMjIOezu+e7n+aIquWbvgoKIVswMV/nmbvlvZXpobVdKGFzc2V0cy9z\nY3JlZW5zaG90cy96aGlyb25neGkvMDFfJUU3JTk5JUJCJUU1JUJEJTk1JUU5\nJUExJUI1LnBuZykKCioqMDFf55m75b2V6aG1KirvvJrnmbvlvZXpobXvvJpS\nQUcg5pm66IO96Kej6K+7IC8gTUwg6YeP5YyW5YiG5p6QIC8g5ZCI6KeE6Ieq\n5Yqo5a6h5qC45LiJ5aSn6IO95YqbICsg5LiJ6KeS6ImyIFJCQUMg5beu5byC\n5YyW6I+c5Y2VCgohWzAyX+aWh+aho+ino+aekOWIhuWdl10oYXNzZXRzL3Nj\ncmVlbnNob3RzL3poaXJvbmd4aS8wMl8lRTYlOTYlODclRTYlQTElQTMlRTgl\nQTclQTMlRTYlOUUlOTAlRTUlODglODYlRTUlOUQlOTcucG5nKQoKKiowMl/m\nlofmoaPop6PmnpDliIblnZcqKu+8mui0ouaKpSBQREYg6Kej5p6Q5Li66K+t\n5LmJ5YiG5Z2X77yIYmdlLWxhcmdlLXpoIOW1jOWFpe+8jOWQqyB0b2tlbnMg\n5LiO5Y6f5paH5rqv5rqQ77yJCgohWzAzX+WFs+iBlOWbvuiwsV0oYXNzZXRz\nL3NjcmVlbnNob3RzL3poaXJvbmd4aS8wM18lRTUlODUlQjMlRTglODElOTQl\nRTUlOUIlQkUlRTglQjAlQjEucG5nKQoKKiowM1/lhbPogZTlm77osLEqKu+8\nmk5lbzRqIOefpeivhuWbvuiwse+8muWFrOWPuC3ooYzkuJot5qaC5b+15YWz\n57O75Y+v6KeG5YyW77yI5b2S5bGeL+WFs+iBlC/lkIzooYzkuJrvvIkKCiFb\nMDRf55uR5o6n5ZGK6K2m5LiO6ZO+6Lev6L+96LiqXShhc3NldHMvc2NyZWVu\nc2hvdHMvemhpcm9uZ3hpLzA0XyVFNyU5QiU5MSVFNiU4RSVBNyVFNSU5MSU4\nQSVFOCVBRCVBNiVFNCVCOCU4RSVFOSU5MyVCRSVFOCVCNyVBRiVFOCVCRiVC\nRCVFOCVCOCVBQS5wbmcpCgoqKjA0X+ebkeaOp+WRiuitpuS4jumTvui3r+i/\nvei4qioq77ya5ZGK6K2m6Z2i5p2/77yIUkFHIOW7tui/ny9MTE0g6ZSZ6K+v\n546HL+WQiOinhOi/neinhO+8iSsgTGFuZ1NtaXRoIOWFqOmTvui3ryBUcmFj\nZQoKIVswNV/ns7vnu5/pppbpobXku6rooajnm5hdKGFzc2V0cy9zY3JlZW5z\naG90cy96aGlyb25neGkvMDVfJUU3JUIzJUJCJUU3JUJCJTlGJUU5JUE2JTk2\nJUU5JUExJUI1JUU0JUJCJUFBJUU4JUExJUE4JUU3JTlCJTk4LnBuZykKCioq\nMDVf57O757uf6aaW6aG15Luq6KGo55uYKirvvJrpppbpobXvvJrnn6Xor4bl\nupPmlofmoaMv6Kej6K+75p+l6K+iL+WIhuaekOS7u+WKoS/po47pmanpooTo\nraYgKyDkvb/nlKjotovlir8gKyDku7vliqHliIbluIMKCiFbMDZf57O757uf\n55uR5o6n5LiO5p625p6EXShhc3NldHMvc2NyZWVuc2hvdHMvemhpcm9uZ3hp\nLzA2XyVFNyVCMyVCQiVFNyVCQiU5RiVFNyU5QiU5MSVFNiU4RSVBNyVFNCVC\nOCU4RSVFNiU5RSVCNiVFNiU5RSU4NC5wbmcpCgoqKjA2X+ezu+e7n+ebkeaO\np+S4juaetuaehCoq77ya5Zub5byV5pOO5p625p6E77yaUkFHKExsYW1hSW5k\nZXgrQ2hyb21hKS9NTChza2xlYXJuK051bVB5KS9MTE0oUXdlbjIuNStPbGxh\nbWEpL0FnZW50KExhbmdHcmFwaCkKCiFbMDdf6K+E5Lyw5oyH5qCH55yL5p2/\nXShhc3NldHMvc2NyZWVuc2hvdHMvemhpcm9uZ3hpLzA3XyVFOCVBRiU4NCVF\nNCVCQyVCMCVFNiU4QyU4NyVFNiVBMCU4NyVFNyU5QyU4QiVFNiU5RCVCRi5w\nbmcpCgoqKjA3X+ivhOS8sOaMh+agh+eci+advyoq77yaMTYg6aG56LSo6YeP\n5oyH5qCH77ya6Zeu562U5YeG56Gu546HIDgyLjMl44CB5bm76KeJ546HIDAl\n44CB5p2l5rqQ6KaG55uWIDEwMCXjgIHlt6XlhbfosIPnlKjmiJDlip/njocg\nODUuMyUKCiFbMDhf56CU5oql6Kej6K+76Zeu562UXShhc3NldHMvc2NyZWVu\nc2hvdHMvemhpcm9uZ3hpLzA4XyVFNyVBMCU5NCVFNiU4QSVBNSVFOCVBNyVB\nMyVFOCVBRiVCQiVFOSU5NyVBRSVFNyVBRCU5NC5wbmcpCgoqKjA4X+eglOaK\npeino+ivu+mXruetlCoq77ya5pm66IO96Zeu562U77ya5qC45b+D5Zue562U\nK+ivpue7huWIhuaekCvpo47pmanmj5DnpLrvvIznva7kv6Hluqboh6ror4Tk\nvLDlubbop6blj5HooaXlhYXmo4DntKIKCiFbMDlf57u85ZCI5YiG5p6QTUzp\nh4/ljJZdKGFzc2V0cy9zY3JlZW5zaG90cy96aGlyb25neGkvMDlfJUU3JUJC\nJUJDJUU1JTkwJTg4JUU1JTg4JTg2JUU2JTlFJTkwTUwlRTklODclOEYlRTUl\nOEMlOTYucG5nKQoKKiowOV/nu7zlkIjliIbmnpBNTOmHj+WMlioq77yaTUwg\n6YeP5YyW5YiG5p6Q77ya6LaL5Yq/6aKE5rWLIFLCsuOAgemjjumZqeWIhue6\np+OAgeiBmuexu+WIhue+pCArIEFJIOS6lOe7tOS4k+S4muino+ivuwoKIVsx\nMF/noJTmiqXnlJ/miJBdKGFzc2V0cy9zY3JlZW5zaG90cy96aGlyb25neGkv\nMTBfJUU3JUEwJTk0JUU2JThBJUE1JUU3JTk0JTlGJUU2JTg4JTkwLnBuZykK\nCioqMTBf56CU5oql55Sf5oiQKirvvJpMYW5nR3JhcGgg5Zub6KeS6Imy5rWB\n5rC057q/6Ieq5Yqo55Sf5oiQ57uT5p6E5YyW56CU5oql77yI5oqV6LWE6KaB\n54K5L+WFrOWPuOamguWGtS/ooYzkuJrliIbmnpAv6LSi5Yqh5YiG5p6Q77yJ\nCgohWzExX+i0ouWKoeWIhuaekF0oYXNzZXRzL3NjcmVlbnNob3RzL3poaXJv\nbmd4aS8xMV8lRTglQjQlQTIlRTUlOEElQTElRTUlODglODYlRTYlOUUlOTAu\ncG5nKQoKKioxMV/otKLliqHliIbmnpAqKu+8mui0ouWKoeS4juS8sOWAvO+8\nmlJPRS9QRS9QQi9FUFMg6Kej6K+7ICsg5LiJ6KGo6Kej6K+7ICsg5Lyw5YC8\n5YiG5p6QICsg6aOO6Zmp5o+Q56S6CgotLS0KCiMjIyDkuIDkuKroh6rlt7Hm\nn6Xlh7rmnaXnmoTnvLrpmbfvvJrpobXnoIHnrqHpgZPvvIgyMy4wJSDihpIg\nODkuMSXvvIkKCuW8leeUqOiDveS4jeiDveeCueWbnuWOn+aWh++8jOWPluWG\ns+S6juavj+S4quWIhuWdl+acieayoeaciemhteeggeOAgui/meS4gOmhueac\ngOWIneW+iOW3ru+8mjE0MzAg5Liq5YiG5Z2X6YeM5Y+q5pyJIDM1NyDkuKrl\nuKbpobXnoIHvvIgyNC45NyXvvInvvIzogIzkuJQqKuWFqOmDqOadpeiHquih\nqOagvOWdlyoq77yM5paH5pys5Z2XIDEwMCUg5pivIDDjgIIKCuagueWboOaY\nr+S4gOihjOS7o+eggeOAgmBkb2N1bWVudF9wYXJzZXJgIOaLvOWFqOaWh+aX\ntue7meavj+mhteW8gOWktOWfi+S6huOAjFvnrKwgTiDpobVd44CN5qCH6K6w\n77yM5L2GIGBjaHVua2VyYCDmnoTpgKDmlofmnKzlnZfml7YgYENodW5rKClg\nICoq5rKh5LygIGBwYWdlX251bWJlcmAqKu+8jOWPquacieihqOagvOWdl+mC\no+adoei3r+W+hOS8oOS6hiBgcGFnZT10YWJsZS5nZXQoInBhZ2UiKWDjgILk\nuo7mmK/jgIzluKbpobXnoIHnmoTlnZfjgI3mgZLnrYnkuo7jgIzooajmoLzl\nnZfjgI3vvIzopobnm5bnjofmgZLnrYnkuo7ooajmoLzlnZfljaDmr5TigJTi\ngJTmjaLkuIDmibnmlbDmja7vvIznu5PorrrkuZ/kuI3lj5jvvIzor7TmmI7o\nv5nmmK/ku6PnoIHot6/lvoTpl67popjvvIzkuI3mmK/mlbDmja7ohI/jgIIK\nCuS/ruazleS4jeaYr+OAjOeUqOato+WImeaKk+mhteWPt+OAje+8jOiAjOaY\nryoq5Yik5qCH6K6w5Zyo5Z2X5YaF55qE5L2N572uKirvvJoKCnwg5qCH6K6w\n5L2N572uIHwg5Yik5a6aIHwKfC0tLXwtLS18Cnwg6LS05Z2X5byA5aS077yI\nb3ZlcmxhcCDkuYvlkI7nq4vljbPlh7rnjrDvvIkgfCDmnKzlnZfku47or6Xp\nobXlvIDlp4sgfAp8IOWHuueOsOWcqOWdl+S4remDqCB8IOWJjeWNiuauteaJ\nv+iHquS4iuS4gOmhte+8jOacrOWdl+aYr+i3qOmhteWdl++8jOiusCBgKHN0\nYXJ0X3BhZ2UsIGVuZF9wYWdlKWAgfAp8IOWdl+WGheayoeacieagh+iusCB8\nIOe7reWdl++8jOe7p+aJv+S4iuS4gOWdl+acq+mhtSB8CgohW+mhteeggeS/\nruWkjeWJjeWQjl0oYXNzZXRzL3NjcmVlbnNob3RzL3poaXJvbmd4aS8xMl8l\nRTklQTElQjUlRTclQTAlODElRTQlQkYlQUUlRTUlQTQlOEQlRTUlQUYlQjkl\nRTYlQUYlOTQucG5nKQoKfCDmjIfmoIfvvIjmnKzmnLogMTAg56+H5Y6f5Lu2\n5aSN546w77yJIHwg5L+u5aSN5YmNIHwg5L+u5aSN5ZCOIHwKfC0tLXwtLS18\nLS0tfAp8IOWIhuWdl+aVsCB8IDk4MSB8IDk4MSB8Cnwg5bim6aG156CBIHwg\nMjI2IHwgODc0IHwKfCDopobnm5bnjocgfCAyMy4wJSB8ICoqODkuMSUqKiB8\nCnwgUERGIOexu+aWh+ahoyB8IDAlIHwgKioxMDAlKiogfAoK5LiJ6YGT6aqM\n6K+B77yM5LiN5piv5Y+q55yL5a2X5q616KKr5aGr5LiK77yaCgotICoq6aG1\n56CB5a+55LiN5a+5KirvvJrmir0gNDcg5Liq5Z2X77yM5oqK5YaF5a655ou/\n5ZueIFBERiDljp/pobXmr5Tlr7kg4oaSICoqNDcvNDcg5ZG95LitKioKLSAq\nKuacieayoeacieaUueWdjyoq77ya5paw5pen5YiG5Z2X5Zmo5Zyo5ZCM5LiA\n5om55Y6f5Lu25LiK6YCQ5Z2XIGRpZmYg4oaSICoqOTgxIOWdl+WGheWuuemb\ntuW3ruW8gioq77yM5ZSv6aG156CB5a2X5q615Y+Y5YyWCi0gKirog73kuI3o\ng73lpI3njrAqKu+8mmBiYWNrZW5kL3NjcmlwdHMvY2l0YXRpb25fY292ZXJh\nZ2UucHkgYmFzZWxpbmVgIOiHquWKqOWKoOi9veWkh+S7veeJiCDihpIg5Lik\n5p2h5ZG95Luk5YiG5Yir6LeR5Ye6IDIzLjAlIOS4jiA4OS4xJQoK5Ymp5LiL\nIDEwNiDlnZflhajpg6jmnaXoh6ogMiDkuKogYC5kb2N4YO+8mua1geW8j+aW\nh+aho+ayoeacieeJqeeQhumhte+8jGBweXRob24tZG9jeGAg6K+75LiN5Yiw\n5YiG6aG144CC6L+Z5LiN5piv5rKh5L+u5a6M77yM5pivKirnu7TluqbpgInm\ni6kqKuKAlOKAlGRvY3gg6K+l6K6w5q616JC95Yy66Ze077yM56Gs57yW5LiA\n5Liq5Lyw566X6aG15Y+35bCx5piv5YGH5L+h5oGv44CCCgoqKui4qei/h+ea\nhOWdkSoq77ya56ys5LiA54mI5Y+q5Y+W44CM5Z2X5YaF56ys5LiA5Liq5qCH\n6K6w44CN77yM5oq95p+l5YeG56Gu546H5Y+q5pyJIDYzLjgl44CC5p+l5LiL\n5Y675piv5Lik5Liq6Zeu6aKY5Y+g5Yqg4oCU4oCU5oiR55qE5o6i6ZKI5Y+W\n5LqG5Z2X5byA5aS0IDQwIOWtl++8jOiAjOmCoyA2NCDlrZfnrKbmmK8gb3Zl\ncmxhcOOAgeacrOWwseWxnuS6juS4iuS4gOmhte+8m+WPpuacieS4gOS4quWd\nl+eahOOAjFvnrKwgMyDpobVd44CN5Ye6546w5Zyo56ysIDI2NyDlrZfnrKbl\npITvvIzliY3ljYrmrrXov5jlnKjnrKwgMiDpobXjgILmlLnmiJDmjInkvY3n\nva7liKTlrprlkI7miY3mnIkgNDcvNDfjgIIKCuWkjeeOsOiEmuacrOWcqCBg\nYmFja2VuZC9zY3JpcHRzL2DvvJpgY2l0YXRpb25fY292ZXJhZ2UucHlg77yI\n6KaG55uW546H77yJ44CBYHZlcmlmeV9jaXRhdGlvbi5weWDvvIjlh4bnoa7m\ngKfmir3mn6XvvInjgIFgZGlmZl9jaHVua2VyLnB5YO+8iOmAkOWdlyBkaWZm\n77yJ44CCCgotLS0KCiMjIOS6jOOAgeehhea1gSDCtyBBSSDovoXliqnnoazk\nu7borr7orqHlpJrmmbrog73kvZPlubPlj7AKCj4g5rqQ56CB5LuT5bqT77yI\n56eB5pyJ77yJ77yaYHNpbGljb24tZmxvd2AKPiDlrp7kuaDmnJ/pl7Tlj4Lk\nuI7nmoTlhazlj7jlhoXpg6jpobnnm67vvIzlupTkv53lr4bopoHmsYLkuI3l\nhazlvIDmupDnoIHvvJvku6XkuIvmiKrlm77kuLrohLHmlY/lkI7nmoTkuqfl\nk4HnlYzpnaLvvIzotKblj7fkv6Hmga/lt7LpmpDljrvjgIIKCuS4gOWPpeiv\nnemcgOaxgiDihpIgNiDkuKogQWdlbnQg5Liy6KGM5Y2P5L2c77yI6KeE5qC8\n6Kej5p6QIOKGkiDlmajku7bpgInlnosg4oaSIOWOn+eQhuWbvueUn+aIkCDi\nhpIgUENCIOW4g+WxgCDihpIg5aSa5qih5oCB5qCh5YeGIOKGkiDkuqfniann\nlJ/miJDvvInvvIzkuqflh7rlj6/nm7TmjqXkvb/nlKjnmoQgRURBIOW3peeo\ni+WMhe+8mktpQ2FkIOW3peeoi+OAgUJPTeOAgemSu+WtlOS4jiBHZXJiZXIg\n5omT5qC35YyF44CB5pa55qGI5paH5qGj5LiO5Li75o6n5rqQ56CB44CCCgrm\nioDmnK/moIjvvJpGYXN0QVBJICsgVnVlIDMgKyBTUUxpdGXvvIjlrZfmrrXl\nhbzlrrkgTXlTUUwg5L6/5LqO6L+B56e777yJKyBNaWx2dXMgLyDmnKzlnLAg\nSlNPTiDlj4zpgJrpgZPlkJHph4/lupMgKyBiZ2UtbGFyZ2Utemgg5ZCR6YeP\n5Y+s5ZueICsgQk0yNSArIGJnZS1yZXJhbmtlci12Mi1tMyDnsr7mjpIgKyBP\nbGxhbWHvvIhxd2VuMi41IC8gbWluaWNwbS12NC4277yJKyBEb2NrZXLjgIIK\nCiMjIyDlubPlj7DnlYzpnaIKCiFbMDEg5aSa5pm66IO95L2T5rWB5rC057q/\nXShhc3NldHMvc2NyZWVuc2hvdHMvc2lsaWNvbi1mbG93LzAxLXRhc2stcGlw\nZWxpbmUucG5nKQoKKiowMSDlpJrmmbrog73kvZPmtYHmsLTnur8qKu+8mui+\nk+WFpeS4gOWPpeiHqueEtuivreiogOmcgOaxgu+8iOWbm+aXi+e/vOaXoOS6\nuuacuumjnuaOp+adv++8mlNUTTMyRjQwNSArIE1QVTYwNTAgKyBCTVAyODDv\nvIw0IOi3ryBQV00g55S16LCD77yMMlPigJM2UyDkvpvnlLXvvInvvIw2IOS4\nqiBBZ2VudCDkvp3mrKHmiafooYzlubblrp7ml7blm57mmL7ml6Xlv5fvvIzl\njZXku7vliqHlhajnqIsgNDdz44CCCgohWzAyIOiuvuiuoeS6p+eJqV0oYXNz\nZXRzL3NjcmVlbnNob3RzL3NpbGljb24tZmxvdy8wMi10YXNrLW91dHB1dHMu\ncG5nKQoKKiowMiDorr7orqHkuqfnianokL3nm5gqKu+8muWNleasoeS7u+WK\noei+k+WHuiAxNyDkuKrmlofku7bigJTigJRLaUNhZCDlt6XnqIvvvIhgYm9h\ncmQua2ljYWRfcGNiYO+8ieOAgUdlcmJlciDmiZPljIXvvIhgc2lsaWNvbmZs\nb3dfcGNiX2dlcmJlci56aXBg77yJ44CB6ZK75a2U5paH5Lu244CBQk9N77yI\nY3N2ICsgbWTvvInjgIHkuLvmjqfmupDnoIHkuI7mlrnmoYjmlofmoaPvvIzl\niY3nq6/lj6/nm7TmjqXkuIvovb3jgIIKCiFbMDMgQk9NIOeJqeaWmeihqF0o\nYXNzZXRzL3NjcmVlbnNob3RzL3NpbGljb24tZmxvdy8wMy1ib20ucG5nKQoK\nKiowMyBCT00g54mp5paZ6KGoKirvvJrlmajku7blnovlj7flhajpg6jmnaXo\nh6rlupPlhoXnnJ/lrp7lhYPku7bvvIhTVE0zMkY0MDUgLyBNUFU2MDUwIC8g\nQk1QMjgw77yJ77yM5bim5bCB6KOF5LiO5L2N5Y+377yM5Y+v55u05o6l5qC4\n5a+56YeH6LSt5riF5Y2V4oCU4oCU6L+Z5Lmf5piv55SoIFJBRyDmo4DntKLm\nm7/ku6PmqKHlnovjgIzorrDlv4bjgI3lnovlj7fnmoTljp/lm6DjgIIKCiFb\nMDQgUENCIOW4g+WxgOWPguiAg10oYXNzZXRzL3NjcmVlbnNob3RzL3NpbGlj\nb24tZmxvdy8wNC1wY2ItbGF5b3V0LnBuZykKCioqMDQgUENCIOW4g+WxgOWP\nguiAgyoq77ya5oyJ5p2/5qGG5Yqf6IO95Yy66Ieq5Yqo5YiG5Yy65biD57q/\n77yI5Zu+5Li66JOd54mZ6ICz5py65b2i5oCB77yaMzQg5YWD5Lu244CBMTkg\n5p2h5L+h5Y+36LWw57q/44CB55S15rqQ572R57uc6ZO66ZOc6L+e5o6l77yJ\n44CCCgohWzA1IOW9ouaAgeW6k10oYXNzZXRzL3NjcmVlbnNob3RzL3NpbGlj\nb24tZmxvdy8wNS1mb3JtLWxpYnJhcnkucG5nKQoKKiowNSDlvaLmgIHlupMg\nwrcg5byC5b2i5p2/KirvvJrmiornnJ/lrp7kuqflk4HlpJblvaLlu7rmqKHm\niJDmnb/moYblh6DkvZXnuqbmnZ/igJTigJTlm5vml4vnv7wgWCDlvaLlm5vo\nh4IgMTYww5cxNjDvvIgxMSDkuKrlip/og73ljLrvvInjgIHmmbrog73muKnm\njqfpo47miYfnrYnjgILpgJrnlKjluIPlsYDlj6rkvJrkuqflh7rnn6nlvaLm\nnb/vvIzlvaLmgIHlupPop6PlhrPnmoTmmK/jgIznlJ/miJDnmoTmnb/og73k\nuI3og73oo4Xov5vkuqflk4HjgI3jgIIKCiFbMDYg55+l6K+G5bqTXShhc3Nl\ndHMvc2NyZWVuc2hvdHMvc2lsaWNvbi1mbG93LzA2LWtub3dsZWRnZS1iYXNl\nLnBuZykKCioqMDYg57qg6ZSZ5Z6L55+l6K+G5bqTKirvvJrljoblj7LlpLHo\ntKXmoYjkvovvvIjlpI3kvY3pgZfmvI/jgIHkvY3lrr3kuI3ljLnphY3jgIHp\nmLvloZ7otYvlgLzmt7fnlKjnrYnvvInlhaXlupPvvIzlj6zlm57lkI7nu48g\nYmdlLXJlcmFua2VyIOeyvuaOkuWGjeWbnueBjOe7mSBBZ2VudOKAlOKAlOi/\nmeWllyBSQUcg55So5LqO57qg6ZSZ77yM5LiN5piv6Zeu562U44CCCgojIyMg\n6K6+6K6h5Lqn5Ye677yI5Y+v57yW6L6RIEtpQ2FkIOW3peeoi++8iQoKIVsw\nNyBLaUNhZCDnvJbovpHlmahdKGFzc2V0cy9zY3JlZW5zaG90cy9zaWxpY29u\nLWZsb3cvMDcta2ljYWQtZWRpdG9yLnBuZykKCioqMDcgS2lDYWQgUENCIOe8\nlui+keWZqCoq77ya5Lqn54mp5piv5Y6f55Sf5Y+v57yW6L6R55qEIEtpQ2Fk\nIOW3peeoi++8jOiAjOS4jeaYr+S4gOW8oOa4suafk+Wbvu+8jOWPr+e7p+e7\nreS6uuW3peS/ruaUueS4juaJk+agt+OAggoKIVswOCBQQ0IgM0Qg5riy5p+T\nXShhc3NldHMvc2NyZWVuc2hvdHMvc2lsaWNvbi1mbG93LzA4LWtpY2FkLTNk\nLnBuZykKCioqMDggUENCIDNEIOa4suafkyoq77yaU1RNMzIg5pyA5bCP57O7\n57uf5p2/77yIU1RNMzJGMTAzQzhUNu+8iTNEIOinhuWbvuOAggoKLS0tCgoj\nIyDkuInjgIHpl63njq/pqozor4Egwrcg5Zub5peL57+8IFgg5b2i6aOe5o6n\n5p2/77ya5LuOIEFJIOeUn+aIkOWbvuWIsOWPr+S4i+WNlSBHZXJiZXIKCj4g\n6L+Z5LiA6IqC5Zue562U5LiA5Liq6Zeu6aKY77yaKirnoYXmtYHnlJ/miJDn\nmoTpgqPkuKogYGJvYXJkLmtpY2FkX3BjYmDvvIzliLDlupXog73kuI3og73m\ni7/ljrvmiZPmoLfjgIIqKgo+IOe7k+iuuuaYr+OAjOS4jeiDveOAje+8jOS9\nhuWug+aYr+S4gOWdl+iDveS/ruWIsOOAjOiDveOAjeeahOaWmeKAlOKAlOS4\ni+mdouavj+S4gOatpemDveacieWPr+Wkjei3keeahOWIpOWIhuS+neaNru+8\njOS4jeaYr+a4suafk+WbvuWlveeci+Wwseeul+i/h+OAggoKIyMjIOe7k+iu\nuuWFiOihjAoKfCDpobkgfCDnoYXmtYHnlJ/miJDvvIh2Me+8iSB8IOmHjeW7\nuuWumueov++8iHYz77yJIHwKfC0tLXwtLS18LS0tfAp8IOiDveWQpuaJk+W8\ngCB8IOaJk+S4jeW8gO+8muaWh+S7tuWktOaYryBLaUNhZCA144CB5q2j5paH\n5pivIHY3IOivreazle+8jOa3t+WGmSB8IOiDve+8jEtpQ2FkIDEwLjAuNiDm\nraPluLjliqDovb0gfAp8IERSQyB8ICoqNDI4IOadoei/neinhCAvIDEzIOWk\nhOacqui/nuaOpSoqIHwgKiowIOadoei/neinhCAvIDAg5aSE5pyq6L+e5o6l\nKiogfAp8IOadv+ahhiB8IDIxIOS4queLrOeri+Wchu+8jOaLvOS4jeaIkOS4\ngOadoemXreWQiOi9ruW7kyB8IFgg5b2i5Zub6IeCIDEzNi4yIMOXIDEzNi4y\nIG1t77yM6Zet5ZCIIHwKfCDlsIHoo4UgfCAzOSDkuKogYG1vZHVsZSBDdXN0\nb21gIOaJi+aQk+WBh+eEiuebmCB8IEtpQ2FkIOWumOaWueW6k+ecn+Wwgeij\nhe+8jDQzIOWFg+S7tiB8Cnwg572R57ucIHwgNjQg5Liq572R77yMNTEg5Liq\n5a2k5YS/572RIHwgMjQg5Liq572R77yMMCDlraTlhL/nvZEgfAp8IOaJk+ag\nt+WMhSB8IDggS0Igemlw77yMR2VyYmVyIOe8uuWxgiB8IDEwIOS4quaWh+S7\ntu+8jOWPjOWxguWujOaVtO+8jDQ2MyBLQiB8CgrkuIDlj6Xor53vvJoqKuaW\nh+S7tuiDveaJk+W8gO+8jOWbvuiDveeci++8jOe7k+iuuuS4jeiDveeUqOOA\ngioqIOaNouecn+WwgeijheOAgeaMieecn+WunuacuuaetumHjeeul+adv+ah\nhuOAgemHjeaWsOW4g+e6v+S5i+WQju+8jOaJjeeul+i1sOWujOmXreeOr+OA\nggoKIyMjIOWFreatpeaYr+aAjuS5iOi3kemAmueahAoKIVvpl63njq/lha3m\nraVdKGFzc2V0cy9zY3JlZW5zaG90cy9zaWxpY29uLWZsb3cvY2xvc2VkLWxv\nb3AvMDQtcGlwZWxpbmUucG5nKQoKKirnrKwgMSDmraUgwrcg55Sf5oiQKirv\nvJrkuIDlj6Xor53pnIDmsYLov5vnoYXmtYHvvIw2IOS4qiBBZ2VudCDkuLLo\noYzot5HlrowgNDcg56eS77yM6JC955uYIDE3IOS4quaWh+S7tu+8jOWFtuS4\nreWwseaciSBgYm9hcmQua2ljYWRfcGNiYOOAggoKKirnrKwgMiDmraUgwrcg\n5omT5LiN5byAKirvvJpLaUNhZCDnm7TmjqXmiqXplJnpgIDlh7rjgILpgJDl\npITmjpLmn6Xlj5HnjrDmmK/or63ms5Xmt7flhpnigJTigJTmnb/nuqflraTn\nq4sgYGZwX3RleHRg44CBMzUg5aSEIGAobW9kZWwgKHh5eikpYCDnvLrlj4Lm\nlbDjgIFgKGp1c3RpZnkgY2VudGVyKWAg5L2N572u6Z2e5rOV44CBYHZpc2li\nbGVfZWxlbWVudHNgIOWkmuWPguaVsOOAgWBkZXNpZ25fcnVsZXNgIOauteiQ\nveivr+WFpe+8jOWFsSA1IOexu+OAguS/ruWujOi/mSA1IOexu+aJjeWKoOi9\nveaIkOWKn+OAggoKKirnrKwgMyDmraUgwrcg55yfIERSQyDliKTliIYqKu+8\nmuS4jeeci+Wbvu+8jOWPqueci+aKpeWRiuOAggoKYGBgYmFzaApraWNhZC1j\nbGkgcGNiIGRyYyAtLWZvcm1hdCBqc29uIC1vIGRyYy5qc29uIGJvYXJkX2Zp\neGVkLmtpY2FkX3BjYgojIDQyOCB2aW9sYXRpb25zIC8gMTMgdW5jb25uZWN0\nZWQgaXRlbXMKYGBgCgoqKuesrCA0IOatpSDCtyDor4rmlq3kuInlpITnl4Xn\ngbYqKu+8iOi/meS4gOatpeWGs+WumuOAjOiwg+WPguOAjei/mOaYr+OAjOmH\njeW7uuOAje+8ie+8mgoKLSDmnb/moYbmmK8gMjEg5Liq5ZCE6Ieq54us56uL\n55qE5ZyG77yM5LiN5piv5LiA5p2h6Zet5ZCI6L2u5buT4oCU4oCUUENCIOWO\nguesrOS4gOecvOWwsemAgOOAgioq6ZSZ55qE5LiN5piv44CM6YCJ5LqGIFgg\n5b2i44CN77yM5piv44CM5Y+q55S75LqG5aSW5b2i44CB5rKh5YGa5biD5bCU\n5bm26ZuG44CNKirvvJsKLSAzOSDkuKrlsIHoo4XmmK8gYG1vZHVsZSBDdXN0\nb21gIOaJi+aQk+eahO+8jOeEiuebmOWwuuWvuOWSjOecn+WunuWZqOS7tuWv\nueS4jeS4iu+8mwotIDY0IOS4que9kee7nOmHjCA1MSDkuKrmmK/lraTlhL/n\nvZHvvIjlj6rmnInkuIDnq6/vvInvvIzor7TmmI7ov57nur/mmK/jgIznlLvk\nuIrljrvnmoTnur/jgI3ogIzkuI3mmK/jgIzov57otbfmnaXnmoTnvZHjgI3j\ngIIKCue7k+iuuu+8mui/meS4ieS4qumXrumimOmDveS4jeaYr+WPguaVsOiD\nveaVkeeahO+8jOW/hemhu+aMieecn+WunuWZqOS7tuS4juecn+Wunuacuuae\ntumHjeW7uuOAggoKKirnrKwgNSDmraUgwrcg5oyJ55yf5a6e5Lqn5ZOB6YeN\n5bu6KirvvJrku6XnoYXmtYHovpPlh7rnmoQgMTMg5Liq55yf5a6e572R57uc\n5Li655S15rCU6aqo5p6277yIKirmsqHmnInmioTku7vkvZXlvIDmupDlt6Xn\nqIsqKu+8ie+8jOihpeS4iuWug+a8j+aOieeahOeUtea6kOS4juWkluWbtOKA\nlOKAlDNWMyDnvZHnu5zmnInjgIHkvYbmsqHmnIkgMy4zViDmnaXmupDvvIzo\noaUgQU1TMTExNy0zLjPvvJtCT09UMCDmgqznqbrvvIzooaXkuIvmi4nvvJvo\nnILpuKPlmajnm7Tov54gSU/vvIzooaUgUzgwNTAg5LiO5Z+65p6B55S16Zi7\n77ybUEEw4oCTUEEzIOaOpSBUSU0yX0NIMeKAk0NINCDpqbHliqjlm5vot6/n\nlLXosIPjgILmnb/moYbmjInlm5vovbTnnJ/lrp7mnLrmnrbph43nrpfvvJrk\nuK3lv4MgNjDDlzYwIOaUvuWFqOmDqOmjnuaOp+eUtei3r++8jOWbm+adoSAx\nOCBtbSDlrr3lr7nop5Loh4Llj6rmib/mi4XnlLXmnLrluqfkuI7nlLXosIPn\nhIrnm5jigJTigJTmr4/kuKroh4Lnq68gNMOXTTIg5a2UICsgMcOXMyDnlLXo\nsIPnhIrnm5jvvIhTSUcvNVYvR05E77yJ44CCCgoqKuS4uuS7gOS5iOaYryBY\nIOW9ou+8jOiAjOS4jeaYr+W4uOingeeahOaWueadv++8nyoqIOi/meaYr+S4\npOenjeS6p+WTge+8jOS4jeaYr+WvuemUme+8mgoKfCB8IOmjnuaOp+aooeWd\nl++8iHN0YWNr77yJIHwg5LiA5L2T5YyW5py65p625p2/77yIZnJhbWUtaW50\nZWdyYXRlZO+8iSB8CnwtLS18LS0tfC0tLXwKfCDlvaLnirYgfCDmlrnmnb/v\nvIwzMC41w5czMC41IOaIliAzNsOXMzYg5a2U6LedIHwg6Lef6ZqP5py65p62\n5aSW5b2i77yMWCDlvaLlm5voh4IgfAp8IOWuieijhSB8IOWbm+milyBNMyDn\nqb/lh4/pnIfmn7Hoo4XliLAqKueis+e6pOe7tOacuuaetioq5aGU5p+x5LiK\nIHwg6IeC56uv55u05o6l6KOF55S15py677yMKiroh6rlt7HlsLHmmK/mnLrm\nnrYqKiB8Cnwg5om/5YqbIHwg6Z2g5py65p6277yM5p2/5a2Q5Y+q566h5o6n\n5Yi2IHwg5p2/5a2Q5om/5Yqb77yM5pGU5py65pat6IeC5Y2z5pat5p2/IHwK\nCui/meWdl+aYr+WQjuiAhe+8muadv+S4iiAxNiDkuKrlrZTlhajmmK8gTTIg\n55S15py65bqn77yMKirmsqHmnInkuIDkuKogMzAuNSDloZTmn7HlrZTigJTi\ngJTlm6DkuLrkuI3pnIDopoEqKuOAguS7o+S7t+S5n+imgeiupO+8mumjnuaO\np+OAgeeUteiwg+OAgeeUtea6kOWFqOaMpOWcqOS4reW/gyA2MMOXNjDvvIzm\nlaPng63lkoznlLXno4Hmm7Tpmr7lj5fvvIzlj6rpgILlkIjlsI/ovbTot53m\nnLrvvJvlpKfmnLrov5jmmK/mlrnmnb/po57mjqcgKyDnorPnuqTnu7TmnLrm\nnrbmm7TnnIHlv4PjgIIKCioq56ysIDYg5q2lIMK3IOW4g+e6v+WIsOWPr+S4\ni+WNlSoq77yaCgpgYGBiYXNoCiMgMS4g5a+85Ye6IFNwZWNjdHJhIERTTu+8\njOS6pOe7mSBGcmVlUm91dGluZyDoh6rliqjluIPnur8KIyAyLiBGcmVlUm91\ndGluZyAyLjQuMSDot5Hlrozlr7zlh7ogU0VT77yIc2NvcmUgOTk5Ljk577yM\nMTI3IOadoeacquW4g+e9kee7nCDihpIgMO+8iQojIDMuIOWbnueBjCBTRVPv\nvIzlj4zpnaIgR05EIOmTuumTnCArIOeDreeEiuebmApraWNhZC1jbGkgcGNi\nIGRyYyAtLWZvcm1hdCBqc29uIC1vIHhfZHJjNy5qc29uIHhmcmFtZV9yb3V0\nZWQua2ljYWRfcGNiCiMgMCB2aW9sYXRpb25zIC8gMCB1bmNvbm5lY3RlZCBp\ndGVtcwpgYGAKCiMjIyDliKTliIbor4Hmja4KCiFbRFJDIOWJjeWQjuWvueav\nlF0oYXNzZXRzL3NjcmVlbnNob3RzL3NpbGljb24tZmxvdy9jbG9zZWQtbG9v\ncC8wNS1kcmMtcmVwb3J0LnBuZykKCuS4pOS4quaVsOWtl+W/hemhu+S4gOi1\nt+ivtO+8mioq5L+u5aSN5YmNIDQyOCDmnaHov53op4TjgIExMyDlpITmnKro\nv57mjqXvvJvkv67lpI3lkI4gMCDmnaHjgIEwIOWkhOOAgioqCgrkuKTngrnl\nj6PlvoTor7TmmI7vvIzpg73mmK/oh6rlt7HlhYjkuqTku6PnmoTvvJoKCjEu\nICoqNDI4IOaYryAyMDI2LTEwLTI3IDE2OjA0IOmCo+S7veaKpeWRiueahOWO\nn+Wni+aVsOWtl+OAgioqIOefrei3r+aYr+aIkOWghumHjeWPoOeahOmTnO+8\njOOAjOiwgeWSjOiwgeaSnuOAjeeahOmFjeWvueWIl+S4vuWcqOS4jeWQjOas\noSBEUkMg5Lit5Lya5bCP5bmF5rWu5Yqo77yI5aSN5rWLIDQxOSDmnaHvvInv\nvIzmnKrov57mjqXmlbDmgZLlrpogMTPjgILmiYDku6Xlr7nlpJbmm7TnqLPn\nmoTor7Tms5XmmK/jgIzlm5vnmb7lpJrmnaHjgI3vvIzopoHmiqXnsr7noa7m\nlbDlsLHpmYTmiqXlkYrmlofku7bjgIIKMi4gKiowIOi/neinhOS4jeaYr+md\noOaUvuWuveinhOWImeaNouadpeeahOOAgioqIOacgOWwj+e6v+WuvSAwLjE1\nIG1tIOaMieadv+WOguW4uOinhOW3peiJuuWGmei/myBgeGZyYW1lX3JvdXRl\nZC5raWNhZF9kcnVg77yIMC4xNS8wLjE1IG1tIOe6v+i3neWxnuWYieeri+WI\nm+OAgeWNjueni+eahOW4uOinhOWItueoi++8ie+8m+iLpeeUqCBLaUNhZCDp\nu5jorqQgMC4yIG1tIOacgOWwj+e6v+WuveWOu+i3ke+8jOS8muaKpSAyNSDm\nnaEgYHRyYWNrX3dpZHRoYOKAlOKAlOi/meaYr+W3peiJuuiuvuWumuW3ruW8\ngu+8jOS4jeaYr+i1sOe6v+aciemXrumimOOAggoKIyMjIOadv+WtkOmVv+i/\nmeagtwoKIVtYIOW9ouWbm+iHgiAzRCDnrYnovbTmtYtdKGFzc2V0cy9zY3Jl\nZW5zaG90cy9zaWxpY29uLWZsb3cvY2xvc2VkLWxvb3AvMDEteDQtM2QtaXNv\nLnBuZykKCioqM0Qg562J6L205rWLKirvvJoxMzYuMiDDlyAxMzYuMiBtbSDl\nj4zlsYLmnb/vvIw0MyDkuKrlhYPku7bpm4bkuK3lnKjkuK3lv4MgNjDDlzYw\nIOWMuu+8jOWbm+adoeiHguWPqui1sOeUteacuuW6p+S4jueUteiwg+eEiueb\nmOOAguadv+WPtyBgWDQtRlJBTUVg44CB5pel5pyf56CBIGAyMDI2LTEwLTI3\nYCDlnKjkuJ3ljbDkuIrjgIIKCiFbWCDlvaLlm5voh4IgM0Qg6aG26KeGXShh\nc3NldHMvc2NyZWVuc2hvdHMvc2lsaWNvbi1mbG93L2Nsb3NlZC1sb29wLzAy\nLXg0LTNkLXRvcC5wbmcpCgoqKjNEIOmhtuinhioq77ya5Zub6IeC5pyr56uv\nIDTDl00yIOeUteacuuWuieijheWtlO+8jOiHguerryByMTEuNSDlnIblvaLm\nlLbovrnvvIzkuI7nnJ/lrp7lm5vovbTmnLrmnrblronoo4XlrZTot53kuIDo\nh7TjgIIKCiFb6aG25bGC6LWw57q/XShhc3NldHMvc2NyZWVuc2hvdHMvc2ls\naWNvbi1mbG93L2Nsb3NlZC1sb29wLzAzLXg0LXJvdXRpbmctdG9wLnBuZykK\nCioq6aG25bGC6LWw57q/6KeG5Zu+KirvvJo0NjEg5q616LWw57q/44CBMzkg\n5Liq6L+H5a2U44CB5oC76ZW/IDE4NDkgbW3vvIzlj4zpnaIgR05EIOmTuumT\nnOOAgui1sOe6v+S7juS4reW/gyBNQ1Ug5omH5Ye65Yiw5Zub6IeC77yM55S1\n5rqQ5LiO5Zyw6LWw5a696ZOc44CB5L+h5Y+36LWwIDAuMTUgbW3jgIIKCiMj\nIyDmiZPmoLfljIXph4zmnInku4DkuYgKCiFbR2VyYmVyIOWMhea4heWNlV0o\nYXNzZXRzL3NjcmVlbnNob3RzL3NpbGljb24tZmxvdy9jbG9zZWQtbG9vcC8w\nNi1nZXJiZXItcGFja2FnZS5wbmcpCgoxMCDkuKrmlofku7bvvJpGL0Ig6ZOc\n566U44CBRi9CIOmYu+eEiuOAgUYvQiDkuJ3ljbDjgIHmnb/moYbjgIFFeGNl\nbGxvbiDpkrvlrZTjgIFTTVQg6LS054mH5Z2Q5qCH44CBR2VyYmVyIOS9nOS4\nmuWNleOAgioq5p2/5qGG6Zet5ZCI44CB5bGC5pWw5a6M5pW077yM5Y+v5Lul\n55u05o6l5oqV5paZKirigJTigJTkvYbkuIvljZXov5nkuIDmraXku43mmK/k\nurrlt6XkuIrkvKDvvIjljY7np4sv5ZiJ56uL5Yib5rKh5pyJ5YWs5byAIEFQ\nSe+8jEFJIOiDveWIsOeahOaYr+OAjOS6pOS7mOS4gOS4quadv+WOguiDveiv\nu+eahOWMheOAje+8jOS4jeaYr+OAjOabv+S6uueCueS4i+WNleOAje+8ieOA\nggoKIyMjIOS4ieS4qumBl+eVmemXrumimO+8iOiHquW3seWFiOivtO+8jOS4\njeetieWIq+S6uumXru+8iQoKMS4gKirmsqHmnInljp/nkIblm77lt6XnqIvv\nvIxFUkMg6LeR5LiN5LqG44CCKiog6L+Z5LiA54mI5piv5LuOIFBDQiDkvqfl\nj43mjqjph43lu7rnmoTvvIzlh6DkvZUgRFJDIOWFqOe7v+S4jeetieS6jueU\nteawlOato+ehruOAguihpSBgLmtpY2FkX3NjaGAg5bm26LeRIEVSQyDmmK/k\nuIvkuIDmraXjgIIKMi4gKipNUFU2MDUwIOeahCBRRk4tMjQg5byV6ISa5oyJ\n5pWw5o2u5omL5YaM6K6w5b+G5o6l57q/KirvvIzlh6DkvZUgRFJDIOafpeS4\njeWHuuOAjOaOpemUmeiEmuOAjei/meexu+eUteawlOmUmeivr++8jOaJk+ag\nt+WJjeW/hemhu+mAkOiEmuWkjeaguOOAggozLiAqKuayoeacieWunueJqe+8\njOayoeS4iui/h+eUteOAgioqIERSQyAwLzAg5Y+q6K+B5piO44CM5Yeg5L2V\n5LiO5bel6Im65Y+v6KGM44CN77yM5LiN6K+B5piO44CM6L+Z5Z2X5p2/54SK\n6LW35p2l6IO955So44CN44CC6Zet546v55qE5pyA5ZCO5LiA546v5piv5omT\n5qC3ICsg5LiK55S15a6e5rWL77yM6L+Y5Zyo5o6S6Zif44CCCgotLS0KCiMj\nIOaVsOaNruadpea6kAoK5pys6IqC5omA5pyJ5pWw5a2X5Z2H5Y+v55So5ZCM\n5LiA5aWX5bel5YW35aSN6LeR77yM5LiN5bim5Lu75L2V5aS45aSn77yaCgp8\nIOW3peWFtyB8IOeUqOmAlCB8CnwtLS18LS0tfAp8IGBraWNhZC1jbGkgMTAu\nMC42IHBjYiBkcmMgLS1mb3JtYXQganNvbmAgfCDllK/kuIDliKTliIbkvp3m\nja7vvIh2aW9sYXRpb25zIC8gdW5jb25uZWN0ZWRfaXRlbXPvvIkgfAp8IGBr\naWNhZC1jbGkgcGNiIGV4cG9ydCBnZXJiZXJzL2RyaWxsL3Bvc2AgfCDmiZPm\noLfljIXlr7zlh7ogfAp8IGBraWNhZC1jbGkgcGNiIHJlbmRlcmAgfCAzRCDm\nuLLmn5PvvIhgLS1xdWFsaXR5IGhpZ2ggLS1mbG9vciAtLXBlcnNwZWN0aXZl\nIC0tem9vbSAwLjc2YO+8iSB8CnwgYHBjYm5ld2AgUHl0aG9uIEFQSe+8iEtp\nQ2FkIDEwIOe7keWumu+8iSB8IOadv+ahhuWHoOS9leiuoeeul+OAgeWwgeij\nheaUvue9ruOAgVNFUyDlm57ngYzjgIHpk7rpk5wgWk9ORV9GSUxMRVIgfAp8\nIEZyZWVSb3V0aW5nIDIuNC4x77yISkRLIDI177yJIHwgU3BlY2N0cmEgRFNO\nIOKGkiBTRVMg6Ieq5Yqo5biD57q/IHwK\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/chucijianyu/portfolio/contents/README.md?ref=main","git":"https://api.github.com/repos/chucijianyu/portfolio/git/blobs/0d4e56d75fee9898e3e33b723d064413d2bb4582","html":"https://github.com/chucijianyu/portfolio/blob/main/README.md"}}
+# 作品集展示 Portfolio
+
+个人项目与实习期间参与项目的展示仓库：**源码均存放在私有仓库**（含公司内部代码，不公开），此处只展示项目介绍与脱敏后的效果图/设计产出。
+
+> 技术笔记：**[posts/](posts/)** —— 每天一篇，记录真正卡住过的位置。
+
+---
+
+## 一、智融析 · 金融智能研报分析与投资决策辅助系统
+
+> 源码仓库（私有）：`zhirongxi`
+
+面向金融研报场景的 AI 全栈应用系统：研报上传解析、智能问答、一键研报生成与合规审核，覆盖数据采集到报告产出完整闭环。技术栈：FastAPI + React 18 + MySQL + Redis + Neo4j + ChromaDB + LangGraph + Ollama + Docker Compose。
+
+### 系统截图
+
+![01_登录页](assets/screenshots/zhirongxi/01_%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+
+**01_登录页**：登录页：RAG 智能解读 / ML 量化分析 / 合规自动审核三大能力 + 三角色 RBAC 差异化菜单
+
+![02_文档解析分块](assets/screenshots/zhirongxi/02_%E6%96%87%E6%A1%A3%E8%A7%A3%E6%9E%90%E5%88%86%E5%9D%97.png)
+
+**02_文档解析分块**：财报 PDF 解析为语义分块（bge-large-zh 嵌入，含 tokens 与原文溯源）
+
+![03_关联图谱](assets/screenshots/zhirongxi/03_%E5%85%B3%E8%81%94%E5%9B%BE%E8%B0%B1.png)
+
+**03_关联图谱**：Neo4j 知识图谱：公司-行业-概念关系可视化（归属/关联/同行业）
+
+![04_监控告警与链路追踪](assets/screenshots/zhirongxi/04_%E7%9B%91%E6%8E%A7%E5%91%8A%E8%AD%A6%E4%B8%8E%E9%93%BE%E8%B7%AF%E8%BF%BD%E8%B8%AA.png)
+
+**04_监控告警与链路追踪**：告警面板（RAG 延迟/LLM 错误率/合规违规）+ LangSmith 全链路 Trace
+
+![05_系统首页仪表盘](assets/screenshots/zhirongxi/05_%E7%B3%BB%E7%BB%9F%E9%A6%96%E9%A1%B5%E4%BB%AA%E8%A1%A8%E7%9B%98.png)
+
+**05_系统首页仪表盘**：首页：知识库文档/解读查询/分析任务/风险预警 + 使用趋势 + 任务分布
+
+![06_系统监控与架构](assets/screenshots/zhirongxi/06_%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%9E%B6%E6%9E%84.png)
+
+**06_系统监控与架构**：四引擎架构：RAG(LlamaIndex+Chroma)/ML(sklearn+NumPy)/LLM(Qwen2.5+Ollama)/Agent(LangGraph)
+
+![07_评估指标看板](assets/screenshots/zhirongxi/07_%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87%E7%9C%8B%E6%9D%BF.png)
+
+**07_评估指标看板**：16 项质量指标：问答准确率 82.3%、幻觉率 0%、来源覆盖 100%、工具调用成功率 85.3%
+
+![08_研报解读问答](assets/screenshots/zhirongxi/08_%E7%A0%94%E6%8A%A5%E8%A7%A3%E8%AF%BB%E9%97%AE%E7%AD%94.png)
+
+**08_研报解读问答**：智能问答：核心回答+详细分析+风险提示，置信度自评估并触发补充检索
+
+![09_综合分析ML量化](assets/screenshots/zhirongxi/09_%E7%BB%BC%E5%90%88%E5%88%86%E6%9E%90ML%E9%87%8F%E5%8C%96.png)
+
+**09_综合分析ML量化**：ML 量化分析：趋势预测 R²、风险分级、聚类分群 + AI 五维专业解读
+
+![10_研报生成](assets/screenshots/zhirongxi/10_%E7%A0%94%E6%8A%A5%E7%94%9F%E6%88%90.png)
+
+**10_研报生成**：LangGraph 四角色流水线自动生成结构化研报（投资要点/公司概况/行业分析/财务分析）
+
+![11_财务分析](assets/screenshots/zhirongxi/11_%E8%B4%A2%E5%8A%A1%E5%88%86%E6%9E%90.png)
+
+**11_财务分析**：财务与估值：ROE/PE/PB/EPS 解读 + 三表解读 + 估值分析 + 风险提示
+
+---
+
+### 一个自己查出来的缺陷：页码管道（23.0% → 89.1%）
+
+引用能不能点回原文，取决于每个分块有没有页码。这一项最初很差：1430 个分块里只有 357 个带页码（24.97%），而且**全部来自表格块**，文本块 100% 是 0。
+
+根因是一行代码。`document_parser` 拼全文时给每页开头埋了「[第 N 页]」标记，但 `chunker` 构造文本块时 `Chunk()` **没传 `page_number`**，只有表格块那条路径传了 `page=table.get("page")`。于是「带页码的块」恒等于「表格块」，覆盖率恒等于表格块占比——换一批数据，结论也不变，说明这是代码路径问题，不是数据脏。
+
+修法不是「用正则抓页号」，而是**判标记在块内的位置**：
+
+| 标记位置 | 判定 |
+|---|---|
+| 贴块开头（overlap 之后立即出现） | 本块从该页开始 |
+| 出现在块中部 | 前半段承自上一页，本块是跨页块，记 `(start_page, end_page)` |
+| 块内没有标记 | 续块，继承上一块末页 |
+
+![页码修复前后](assets/screenshots/zhirongxi/12_%E9%A1%B5%E7%A0%81%E4%BF%AE%E5%A4%8D%E5%AF%B9%E6%AF%94.png)
+
+| 指标（本机 10 篇原件复现） | 修复前 | 修复后 |
+|---|---|---|
+| 分块数 | 981 | 981 |
+| 带页码 | 226 | 874 |
+| 覆盖率 | 23.0% | **89.1%** |
+| PDF 类文档 | 0% | **100%** |
+
+三道验证，不是只看字段被填上：
+
+- **页码对不对**：抽 47 个块，把内容拿回 PDF 原页比对 → **47/47 命中**
+- **有没有改坏**：新旧分块器在同一批原件上逐块 diff → **981 块内容零差异**，唯页码字段变化
+- **能不能复现**：`backend/scripts/citation_coverage.py baseline` 自动加载备份版 → 两条命令分别跑出 23.0% 与 89.1%
+
+剩下 106 块全部来自 2 个 `.docx`：流式文档没有物理页，`python-docx` 读不到分页。这不是没修完，是**维度选择**——docx 该记段落区间，硬编一个估算页号就是假信息。
+
+**踩过的坑**：第一版只取「块内第一个标记」，抽查准确率只有 63.8%。查下去是两个问题叠加——我的探针取了块开头 40 字，而那 64 字符是 overlap、本就属于上一页；另有一个块的「[第 3 页]」出现在第 267 字符处，前半段还在第 2 页。改成按位置判定后才有 47/47。
+
+复现脚本在 `backend/scripts/`：`citation_coverage.py`（覆盖率）、`verify_citation.py`（准确性抽查）、`diff_chunker.py`（逐块 diff）。
+
+---
+
+## 二、硅流 · AI 辅助硬件设计多智能体平台
+
+> 源码仓库（私有）：`silicon-flow`
+> 实习期间参与的公司内部项目，应保密要求不公开源码；以下截图为脱敏后的产品界面，账号信息已隐去。
+
+一句话需求 → 6 个 Agent 串行协作（规格解析 → 器件选型 → 原理图生成 → PCB 布局 → 多模态校准 → 产物生成），产出可直接使用的 EDA 工程包：KiCad 工程、BOM、钻孔与 Gerber 打样包、方案文档与主控源码。
+
+技术栈：FastAPI + Vue 3 + SQLite（字段兼容 MySQL 便于迁移）+ Milvus / 本地 JSON 双通道向量库 + bge-large-zh 向量召回 + BM25 + bge-reranker-v2-m3 精排 + Ollama（qwen2.5 / minicpm-v4.6）+ Docker。
+
+### 平台界面
+
+![01 多智能体流水线](assets/screenshots/silicon-flow/01-task-pipeline.png)
+
+**01 多智能体流水线**：输入一句自然语言需求（四旋翼无人机飞控板：STM32F405 + MPU6050 + BMP280，4 路 PWM 电调，2S–6S 供电），6 个 Agent 依次执行并实时回显日志，单任务全程 47s。
+
+![02 设计产物](assets/screenshots/silicon-flow/02-task-outputs.png)
+
+**02 设计产物落盘**：单次任务输出 17 个文件——KiCad 工程（`board.kicad_pcb`）、Gerber 打包（`siliconflow_pcb_gerber.zip`）、钻孔文件、BOM（csv + md）、主控源码与方案文档，前端可直接下载。
+
+![03 BOM 物料表](assets/screenshots/silicon-flow/03-bom.png)
+
+**03 BOM 物料表**：器件型号全部来自库内真实元件（STM32F405 / MPU6050 / BMP280），带封装与位号，可直接核对采购清单——这也是用 RAG 检索替代模型「记忆」型号的原因。
+
+![04 PCB 布局参考](assets/screenshots/silicon-flow/04-pcb-layout.png)
+
+**04 PCB 布局参考**：按板框功能区自动分区布线（图为蓝牙耳机形态：34 元件、19 条信号走线、电源网络铺铜连接）。
+
+![05 形态库](assets/screenshots/silicon-flow/05-form-library.png)
+
+**05 形态库 · 异形板**：把真实产品外形建模成板框几何约束——四旋翼 X 形四臂 160×160（11 个功能区）、智能温控风扇等。通用布局只会产出矩形板，形态库解决的是「生成的板能不能装进产品」。
+
+![06 知识库](assets/screenshots/silicon-flow/06-knowledge-base.png)
+
+**06 纠错型知识库**：历史失败案例（复位遗漏、位宽不匹配、阻塞赋值混用等）入库，召回后经 bge-reranker 精排再回灌给 Agent——这套 RAG 用于纠错，不是问答。
+
+### 设计产出（可编辑 KiCad 工程）
+
+![07 KiCad 编辑器](assets/screenshots/silicon-flow/07-kicad-editor.png)
+
+**07 KiCad PCB 编辑器**：产物是原生可编辑的 KiCad 工程，而不是一张渲染图，可继续人工修改与打样。
+
+![08 PCB 3D 渲染](assets/screenshots/silicon-flow/08-kicad-3d.png)
+
+**08 PCB 3D 渲染**：STM32 最小系统板（STM32F103C8T6）3D 视图。
+
+---
+
+## 三、闭环验证 · 四旋翼 X 形飞控板：从 AI 生成图到可下单 Gerber
+
+> 这一节回答一个问题：**硅流生成的那个 `board.kicad_pcb`，到底能不能拿去打样。**
+> 结论是「不能」，但它是一块能修到「能」的料——下面每一步都有可复跑的判分依据，不是渲染图好看就算过。
+
+### 结论先行
+
+| 项 | 硅流生成（v1） | 重建定稿（v3） |
+|---|---|---|
+| 能否打开 | 打不开：文件头是 KiCad 5、正文是 v7 语法，混写 | 能，KiCad 10.0.6 正常加载 |
+| DRC | **428 条违规 / 13 处未连接** | **0 条违规 / 0 处未连接** |
+| 板框 | 21 个独立圆，拼不成一条闭合轮廓 | X 形四臂 136.2 × 136.2 mm，闭合 |
+| 封装 | 39 个 `module Custom` 手搓假焊盘 | KiCad 官方库真封装，43 元件 |
+| 网络 | 64 个网，51 个孤儿网 | 24 个网，0 孤儿网 |
+| 打样包 | 8 KB zip，Gerber 缺层 | 10 个文件，双层完整，463 KB |
+
+一句话：**文件能打开，图能看，结论不能用。** 换真封装、按真实机架重算板框、重新布线之后，才算走完闭环。
+
+### 六步是怎么跑通的
+
+![闭环六步](assets/screenshots/silicon-flow/closed-loop/04-pipeline.png)
+
+**第 1 步 · 生成**：一句话需求进硅流，6 个 Agent 串行跑完 47 秒，落盘 17 个文件，其中就有 `board.kicad_pcb`。
+
+**第 2 步 · 打不开**：KiCad 直接报错退出。逐处排查发现是语法混写——板级孤立 `fp_text`、35 处 `(model (xyz))` 缺参数、`(justify center)` 位置非法、`visible_elements` 多参数、`design_rules` 段落误入，共 5 类。修完这 5 类才加载成功。
+
+**第 3 步 · 真 DRC 判分**：不看图，只看报告。
+
+```bash
+kicad-cli pcb drc --format json -o drc.json board_fixed.kicad_pcb
+# 428 violations / 13 unconnected items
+```
+
+**第 4 步 · 诊断三处病灶**（这一步决定「调参」还是「重建」）：
+
+- 板框是 21 个各自独立的圆，不是一条闭合轮廓——PCB 厂第一眼就退。**错的不是「选了 X 形」，是「只画了外形、没做布尔并集」**；
+- 39 个封装是 `module Custom` 手搓的，焊盘尺寸和真实器件对不上；
+- 64 个网络里 51 个是孤儿网（只有一端），说明连线是「画上去的线」而不是「连起来的网」。
+
+结论：这三个问题都不是参数能救的，必须按真实器件与真实机架重建。
+
+**第 5 步 · 按真实产品重建**：以硅流输出的 13 个真实网络为电气骨架（**没有抄任何开源工程**），补上它漏掉的电源与外围——3V3 网络有、但没有 3.3V 来源，补 AMS1117-3.3；BOOT0 悬空，补下拉；蜂鸣器直连 IO，补 S8050 与基极电阻；PA0–PA3 接 TIM2_CH1–CH4 驱动四路电调。板框按四轴真实机架重算：中心 60×60 放全部飞控电路，四条 18 mm 宽对角臂只承担电机座与电调焊盘——每个臂端 4×M2 孔 + 1×3 电调焊盘（SIG/5V/GND）。
+
+**为什么是 X 形，而不是常见的方板？** 这是两种产品，不是对错：
+
+| | 飞控模块（stack） | 一体化机架板（frame-integrated） |
+|---|---|---|
+| 形状 | 方板，30.5×30.5 或 36×36 孔距 | 跟随机架外形，X 形四臂 |
+| 安装 | 四颗 M3 穿减震柱装到**碳纤维机架**塔柱上 | 臂端直接装电机，**自己就是机架** |
+| 承力 | 靠机架，板子只管控制 | 板子承力，摔机断臂即断板 |
+
+这块是后者：板上 16 个孔全是 M2 电机座，**没有一个 30.5 塔柱孔——因为不需要**。代价也要认：飞控、电调、电源全挤在中心 60×60，散热和电磁更难受，只适合小轴距机；大机还是方板飞控 + 碳纤维机架更省心。
+
+**第 6 步 · 布线到可下单**：
+
+```bash
+# 1. 导出 Specctra DSN，交给 FreeRouting 自动布线
+# 2. FreeRouting 2.4.1 跑完导出 SES（score 999.99，127 条未布网络 → 0）
+# 3. 回灌 SES，双面 GND 铺铜 + 热焊盘
+kicad-cli pcb drc --format json -o x_drc7.json xframe_routed.kicad_pcb
+# 0 violations / 0 unconnected items
+```
+
+### 判分证据
+
+![DRC 前后对比](assets/screenshots/silicon-flow/closed-loop/05-drc-report.png)
+
+两个数字必须一起说：**修复前 428 条违规、13 处未连接；修复后 0 条、0 处。**
+
+两点口径说明，都是自己先交代的：
+
+1. **428 是 2026-10-27 16:04 那份报告的原始数字。** 短路是成堆重叠的铜，「谁和谁撞」的配对列举在不同次 DRC 中会小幅浮动（复测 419 条），未连接数恒定 13。所以对外更稳的说法是「四百多条」，要报精确数就附报告文件。
+2. **0 违规不是靠放宽规则换来的。** 最小线宽 0.15 mm 按板厂常规工艺写进 `xframe_routed.kicad_dru`（0.15/0.15 mm 线距属嘉立创、华秋的常规制程）；若用 KiCad 默认 0.2 mm 最小线宽去跑，会报 25 条 `track_width`——这是工艺设定差异，不是走线有问题。
+
+### 板子长这样
+
+![X 形四臂 3D 等轴测](assets/screenshots/silicon-flow/closed-loop/01-x4-3d-iso.png)
+
+**3D 等轴测**：136.2 × 136.2 mm 双层板，43 个元件集中在中心 60×60 区，四条臂只走电机座与电调焊盘。板号 `X4-FRAME`、日期码 `2026-10-27` 在丝印上。
+
+![X 形四臂 3D 顶视](assets/screenshots/silicon-flow/closed-loop/02-x4-3d-top.png)
+
+**3D 顶视**：四臂末端 4×M2 电机安装孔，臂端 r11.5 圆形收边，与真实四轴机架安装孔距一致。
+
+![顶层走线](assets/screenshots/silicon-flow/closed-loop/03-x4-routing-top.png)
+
+**顶层走线视图**：461 段走线、39 个过孔、总长 1849 mm，双面 GND 铺铜。走线从中心 MCU 扇出到四臂，电源与地走宽铜、信号走 0.15 mm。
+
+### 打样包里有什么
+
+![Gerber 包清单](assets/screenshots/silicon-flow/closed-loop/06-gerber-package.png)
+
+10 个文件：F/B 铜箔、F/B 阻焊、F/B 丝印、板框、Excellon 钻孔、SMT 贴片坐标、Gerber 作业单。**板框闭合、层数完整，可以直接投料**——但下单这一步仍是人工上传（华秋/嘉立创没有公开 API，AI 能到的是「交付一个板厂能读的包」，不是「替人点下单」）。
+
+### 三个遗留问题（自己先说，不等别人问）
+
+1. **没有原理图工程，ERC 跑不了。** 这一版是从 PCB 侧反推重建的，几何 DRC 全绿不等于电气正确。补 `.kicad_sch` 并跑 ERC 是下一步。
+2. **MPU6050 的 QFN-24 引脚按数据手册记忆接线**，几何 DRC 查不出「接错脚」这类电气错误，打样前必须逐脚复核。
+3. **没有实物，没上过电。** DRC 0/0 只证明「几何与工艺可行」，不证明「这块板焊起来能用」。闭环的最后一环是打样 + 上电实测，还在排队。
+
+---
+
+## 数据来源
+
+本节所有数字均可用同一套工具复跑，不带任何夸大：
+
+| 工具 | 用途 |
+|---|---|
+| `kicad-cli 10.0.6 pcb drc --format json` | 唯一判分依据（violations / unconnected_items） |
+| `kicad-cli pcb export gerbers/drill/pos` | 打样包导出 |
+| `kicad-cli pcb render` | 3D 渲染（`--quality high --floor --perspective --zoom 0.76`） |
+| `pcbnew` Python API（KiCad 10 绑定） | 板框几何计算、封装放置、SES 回灌、铺铜 ZONE_FILLER |
+| FreeRouting 2.4.1（JDK 25） | Specctra DSN → SES 自动布线 |
