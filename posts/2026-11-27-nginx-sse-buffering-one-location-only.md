@@ -15,6 +15,8 @@
 
 nginx 的普通前缀 location 是"最长前缀胜出"，不做正则回退。所以 `POST /api/v1/reports/interpret/stream` 只会命中 `/api/` —— 没有任何一条规则为它开过特例。它落在 300 秒的桶里，并且吃默认的缓冲。
 
+顺带排掉一个疑问：`/api/` 会不会还有第二层反代？不会。前端容器自带的 `frontend/nginx.conf` 只做静态资源与 SPA 回退（`try_files $uri $uri/ /index.html`），根本没有 `/api/` 转发；`docker-compose.yml` 里主 nginx 是唯一对外入口（`8088:80`），backend 只 `expose: 8000`。所以上面那张表就是全部，超时与缓冲只在这一层发生。
+
 ## 后端两个 StreamingResponse 长得不一样
 
 `api/reports.py:307`，解读的流式端点：
